@@ -359,16 +359,5 @@ go build -o weclaw .
 [![Star History Chart](https://api.star-history.com/svg?repos=fastclaw-ai/weclaw&type=Timeline)](https://star-history.com/#fastclaw-ai/weclaw&Timeline)
 
 
-## Support
-
-<!-- sponsor-qr:start -->
-If this project helps you, you can support ongoing development with Alipay or Binance.
-
-<p align="center">
-  <img src="assets/sponsor/alipay.jpg" alt="Alipay support QR" width="260" />
-  <img src="assets/sponsor/binance.png" alt="Binance support QR" width="260" />
-</p>
-<!-- sponsor-qr:end -->
-
 ## License
 [MIT](LICENSE)
